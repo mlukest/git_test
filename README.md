@@ -1,0 +1,1 @@
+This is Lukest's first git project!
